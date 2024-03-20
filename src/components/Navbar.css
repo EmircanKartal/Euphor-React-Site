@@ -1,0 +1,9 @@
+.navbar-logo {
+    display: block; /* Ensures the logo is normally visible */
+  }
+  
+  @media (max-width: 480px) {
+    .navbar-logo {
+      display: none; /* Hides the logo on screens smaller than 480px wide */
+    }
+  }
