@@ -1,12 +1,14 @@
 # Euphor React Site
 
 Hi, we are
-### Euphor!
+
+[Euphor!](https://euphor.velnom.xyz)
+
 A dynamic trio passionate about producing content
 
 On Science, Tech, Society, Philosophy, Entrepreneurship, and Internet Culture. Our podcast brings these topics to life through entertaining discussions, ranging from daily experiences to meticulously researched subjects.
 
-And welcome to the official website of Euphor!
+Welcome to the official website of Euphor! You can visit our site [here](https://euphor.velnom.xyz).
 
 ## Installation
 
